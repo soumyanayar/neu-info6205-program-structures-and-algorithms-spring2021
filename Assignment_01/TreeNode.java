@@ -1,11 +1,11 @@
 package Assignment_01;
 
 public class TreeNode {
-    int value;
+    int val;
     TreeNode left;
     TreeNode right;
 
-    public TreeNode(int value) {
-        this.value = value;
+    public TreeNode(int val) {
+        this.val = val;
     }
 }
