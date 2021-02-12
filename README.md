@@ -8,3 +8,4 @@
 
 ### Assignment 2
 1. [Swap Nodes in Pairs](./Assignment_02/Problem1.java)
+1. [Delete a node in link list](./Assignment_02/Problem2.java)
