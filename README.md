@@ -18,3 +18,4 @@
 1. [Swap Nodes in link list ](./Assignment_03/Problem2.java)
 1. [Remove link list element ](./Assignment_03/Problem3.java)
 1. [Delete n nodes after m nodes](./Assignment_03/Problem4.java)
+1. [Design and implement double link list](./Assignment_03/DoubleLinkedList.java)
