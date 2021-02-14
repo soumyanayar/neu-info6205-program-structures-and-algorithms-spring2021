@@ -12,3 +12,9 @@
 1. [Even Odd Link List](./Assignment_02/Problem3.java)
 1. [Split Linked List in Parts](./Assignment_02/Problem4.java)
 1. [Insert into a Sorted Circular Linked List](./Assignment_02/Problem5.java)
+
+### Assignment 3
+1. [Merge in between links](./Assignment_03/Problem1.java)
+1. [Swap Nodes in link list ](./Assignment_03/Problem2.java)
+1. [Remove link list element ](./Assignment_03/Problem3.java)
+1. [Delete n nodes after m nodes](./Assignment_03/Problem4.java)
