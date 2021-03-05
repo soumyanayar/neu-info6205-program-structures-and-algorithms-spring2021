@@ -25,3 +25,10 @@
 1. [Find nth Smallest of an unsorted array](./Assignment_04/Problem2.java)
 1. [Sort colors](./Assignment_04/Problem3.java)
 1. [Pancake sort](./Assignment_04/Problem4.java)
+
+### Assignment 5
+1. [Find K Closest Elements](./Assignment_05/Problem_01.java)
+1. [Find Intersection of 2 sorted arrays](./Assignment_05/Problem_02.java)
+1. [Peak Index in a mountain](./Assignment_05/Problem_03.java)
+1. [Reorganize string](./Assignment_05/Problem_04.java)
+1. [Count number of 1's in sorted binary array](./Assignment_05/Problem_05.java)
