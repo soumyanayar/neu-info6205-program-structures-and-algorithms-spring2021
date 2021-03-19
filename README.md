@@ -32,3 +32,10 @@
 1. [Peak Index in a mountain](./Assignment_05/Problem_03.java)
 1. [Reorganize string](./Assignment_05/Problem_04.java)
 1. [Count number of 1's in sorted binary array](./Assignment_05/Problem_05.java)
+
+### Assignment 6
+1. [Subtree of Another Tree](./Assignment_06/Problem_01.java)
+1. [Asteroid Collision](./Assignment_06/Problem_02.java)
+1. [3Sum](./Assignment_06/Problem_03.java)
+1. [Generate Parentheses](./Assignment_06/Problem_04.java)
+1. [Reverse Nodes in k-Group](./Assignment_06/Problem_05.java)
