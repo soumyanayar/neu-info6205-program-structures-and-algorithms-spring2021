@@ -40,7 +40,7 @@ public class Problem1 {
             }
         }
 
-        while (n1 != null && n2 != null && n1.val != n2.val) {
+        while (n1 != null && n2 != null && n1 != n2) {
             n1 = n1.next;
             n2 = n2.next;
         }
@@ -49,9 +49,9 @@ public class Problem1 {
             return false;
         }
 
-        if (n1.val == n2.val) {
+        if (n1 == n2) {
             while (n1 != null && n2 != null) {
-                if (n1.val != n2.val) {
+                if (n1 != n2) {
                     return false;
                 }
                 n1 = n1.next;
@@ -78,18 +78,20 @@ public class Problem1 {
         // creating first linked list
         list1.head = new ListNode(5);
         list1.head.next = new ListNode(20);
-        list1.head.next.next = new ListNode(15);
-        list1.head.next.next.next = new ListNode(10);
-        list1.head.next.next.next.next = new ListNode(8);
+
+        ListNode node = new ListNode(15);
+        node.next = new ListNode(10);
+        node.next.next = new ListNode(8);
+
+        list1.head.next.next = node;
 
         Problem1 list2 = new Problem1();
         // creating second linked list
         list2.head = new ListNode(1);
-        list2.head.next = new ListNode(10);
-        list2.head.next.next = new ListNode(8);
+        list2.head.next = node;
 
         Problem1 list3 = new Problem1();
-        // creating second linked list
+        // creating third linked list
         list3.head = new ListNode(12);
         list3.head.next = new ListNode(0);
         list3.head.next.next = new ListNode(11);
