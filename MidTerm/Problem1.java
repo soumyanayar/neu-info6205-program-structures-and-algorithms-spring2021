@@ -48,11 +48,14 @@ public class Problem1 {
         if (n1 == null) {
             return false;
         }
+
         if (n1.val == n2.val) {
             while (n1 != null && n2 != null) {
                 if (n1.val != n2.val) {
                     return false;
                 }
+                n1 = n1.next;
+                n2 = n2.next;
             }
             return true;
         }
