@@ -39,3 +39,10 @@
 1. [3Sum](./Assignment_06/Problem_03.java)
 1. [Generate Parentheses](./Assignment_06/Problem_04.java)
 1. [Reverse Nodes in k-Group](./Assignment_06/Problem_05.java)
+
+### Assignment 7
+1. [Rotate Image](./Assignment_07/Problem1.java)
+1. [Reverse words in a String](./Assignment_07/Problem2.java)
+1. [Set Matrix Zeroes](./Assignment_07/Problem3.java)
+1. [Valid Anagram](./Assignment_07/Problem4.java)
+1. [Longest common Prefix](./Assignment_07/Problem5.java)
