@@ -46,3 +46,9 @@
 1. [Set Matrix Zeroes](./Assignment_07/Problem3.java)
 1. [Valid Anagram](./Assignment_07/Problem4.java)
 1. [Longest common Prefix](./Assignment_07/Problem5.java)
+
+### Assignment8
+1. [Find shortest paths from source to all vertices in the given graph](./Assignment_08/Problem1.java)
+1. [Course Schedule](./Assignment_08/Problem2.java)
+1. [Word Ladder](./Assignment_08/Problem3.java)
+1. [Number of Islands](./Assignment_08/Problem4.java)
